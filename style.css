@@ -1,0 +1,45 @@
+
+
+body{
+  color : gold;
+  text-align : center; 
+} 
+
+#pet_name
+{
+  color : orange;
+  text-align : center; 
+}
+
+img
+{
+  border: 
+  border-radius:
+  width:
+
+}
+.fact1
+{
+  color: gold;
+  border: 2px solid orange;
+  background-color: orange;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+
+h3
+{
+  color : red;
+  font-size : 20px;
+
+}
+a
+{
+  font-size:20px; 
+  border-style: solid;
+  border-color: orange;
+  border-width: 4px;
+  padding: 10px;
+}
+
